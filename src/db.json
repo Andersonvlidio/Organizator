@@ -1,0 +1,88 @@
+{
+  "listas": [
+    {
+      "id": 1,
+      "nome": "Tarefas projeto Final"
+    },
+    {
+      "id": 1595383174710,
+      "nome": "test3"
+    },
+    {
+      "id": 1595386101732,
+      "nome": "lista4"
+    },
+    {
+      "id": 1597105503391,
+      "nome": "Anderson"
+    }
+  ],
+  "tarefas": [
+    {
+      "nome": "rotas",
+      "finalizada": false,
+      "listaId": 1,
+      "id": 4
+    },
+    {
+      "nome": "criar itens na lista",
+      "finalizada": false,
+      "listaId": 1,
+      "id": 5
+    },
+    {
+      "nome": "criar editar itens itens",
+      "finalizada": true,
+      "listaId": 1,
+      "id": 6
+    },
+    {
+      "nome": "deletar itens na lista",
+      "finalizada": true,
+      "listaId": 1,
+      "id": 7
+    },
+    {
+      "nome": "adicionar com o enter",
+      "finalizada": false,
+      "listaId": 1,
+      "id": 8
+    },
+    {
+      "nome": "criar novas listas",
+      "finalizada": true,
+      "listaId": 1,
+      "id": 9
+    },
+    {
+      "nome": "Editar o nome de uma lista",
+      "finalizada": true,
+      "listaId": 1,
+      "id": 10
+    },
+    {
+      "nome": "deletar umas lista",
+      "finalizada": true,
+      "listaId": 1,
+      "id": 11
+    },
+    {
+      "nome": "estilizar a aplicação",
+      "finalizada": false,
+      "listaId": 1,
+      "id": 12
+    },
+    {
+      "nome": "qualquer outra melhoria",
+      "finalizada": false,
+      "listaId": 1,
+      "id": 13
+    },
+    {
+      "nome": "aaaaa",
+      "finalizada": false,
+      "listaId": 1,
+      "id": 14
+    }
+  ]
+}
