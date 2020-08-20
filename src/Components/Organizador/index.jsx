@@ -54,7 +54,7 @@ const Organizador = ({ list, updateListkName, deleteList }) => {
 
 			<Link to={`/list/${list.id}`}>
 				<button>
-					<BsChevronDoubleRight color="#fff" size="20px" />
+					<BsChevronDoubleRight color="#fff" size="25px" />
 				</button>
 			</Link>
 		</ListContainerCard>
